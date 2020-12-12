@@ -1,0 +1,13 @@
+{
+  "name": "amongus-reverse-proxy",
+  "version": "1.0.0",
+  "description": "Simple UDP reverse proxy server to intercept Among Us game packets.",
+  "author": "Jared (jdf2)",
+  "license": "MIT",
+  "dependencies": {
+    "amongus-protocol": "^1.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
+}
