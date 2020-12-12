@@ -3,6 +3,10 @@ Simple UDP reverse proxy server to intercept Among Us game packets.
 
 ## Example
 
+You need to set your Among Us to use localhost as the server. Follow the instructions here: https://impostor.github.io/Impostor/
+
+Use the IP `127.0.0.1`.
+___
 ```javascript
 import { AmongUsCapture } from "./AmongUsCapture";
 
